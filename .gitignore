@@ -1,0 +1,10 @@
+# Archivos de configuración de IDE (PyCharm, IntelliJ, etc.)
+.idea/
+
+# Archivos y directorios de Python
+*.pyc
+__pycache__/
+
+# Archivos de entornos virtuales
+venv/
+env/
